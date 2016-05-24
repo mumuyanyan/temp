@@ -5,6 +5,7 @@ Created on 2016��5��16��
 @author: Administrator
 '''
 import numpy as np
+import pandas as pd
 #import pandas as pd
 
 #创建神经网络类
